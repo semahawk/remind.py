@@ -12,8 +12,8 @@ Do you remember all your exams, classes and homeworks? Neither do I. And that's 
 
 # Authors
 
-+ Szymon Urbaś <urbas@hush.ai>
++ Szymon Urbaś (<urbas@hush.ai>)
 
 # License
 
-Copyright: (c) 2012 by Szymon Urbaś <urbas@hush.ai>
+Copyright: (c) 2012 by Szymon Urbaś (<urbas@hush.ai>)
