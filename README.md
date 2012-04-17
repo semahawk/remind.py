@@ -2,9 +2,17 @@
 
 Do you remember all your exams, classes and homeworks? Neither do I. And that's what reminder.py is for!
 
-# Installation
+## Installation
 
 ...
+
+## Usage
+
+...
+
+# Authors
+
++ Szymon Urbaś <urbas@hush.ai>
 
 # License
 
