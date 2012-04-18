@@ -12,7 +12,7 @@ __2.__ Get into the code
 
     cd reminder.py
 
-__3.__ You're ready to rock!
+__3.__ You're ready to rock! I mean.. you'll be learning for the exam.. Hahah!
 
 ## Usage
 
