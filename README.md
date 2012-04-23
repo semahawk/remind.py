@@ -16,7 +16,7 @@ __3.__ You're ready to rock! I mean.. you'll be learning for the exam.. Hahah!
 
 ## Usage
 
-The executable is located in `bin` directory and called `reminder`.
+The executable is located in `bin` directory and called `remind`.
 
 ___...___
 
