@@ -6,11 +6,11 @@ Do you remember all your exams, homeworks and so-on? Neither do I. And that's wh
 
 __1.__ Achieve the code
 
-    git clone git://github.com/semahawk/reminder.py.git
+    git clone git://github.com/semahawk/remind.py.git
 
 __2.__ Get into the code
 
-    cd reminder.py
+    cd remind.py
 
 __3.__ You're ready to rock! I mean.. you'll be learning for the exam.. Hahah!
 
