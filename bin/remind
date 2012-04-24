@@ -42,10 +42,8 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 if [ ! -f "$HOME/remind.db" ]; then
   echo      " warning: the database file was not found"
   echo -ne  " info:    creating the database [    ]\r"
-  sleep 0.5
-  if 
+  sleep 1
   cp ${DIR}/../var/remind.db $HOME/
-  sleep 0.5
   if [ $? -eq 0 ]; then
     echo -e " info:    creating the database [ OK ]\n"
   else
