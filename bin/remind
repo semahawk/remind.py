@@ -39,11 +39,11 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # check whether there is no ~/remind.db file
-if [ ! -f "$HOME/remind.db" ]; then
+if [ ! -f "$HOME/.remind.db" ]; then
   echo      " warning: the database file was not found"
   echo -ne  " info:    creating the database [    ]\r"
   sleep 1
-  cp ${DIR}/../var/remind.db $HOME/
+  cp ${DIR}/../var/remind.db $HOME/.remind.db
   if [ $? -eq 0 ]; then
     echo -e " info:    creating the database [ OK ]\n"
   else
